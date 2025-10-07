@@ -1,0 +1,1 @@
+# DIAPASAO_BASH
